@@ -9,20 +9,10 @@
 -  **[Meeting Minutes](/meetings)** agenda and minutes posted for meetings:
      The format for the meetings will be "meeting_YYYYMMDD_[agenda|minutes|admin].md.
      Additionally we could make subfolders such as ./admin ./general to keep some organization here.
-    - [Some information](/staffing/hiring/application-process.md) on our application/interview process
-  - [Sample job descriptions](/staffing/job-postings/readme.md) from our team and from INN member organizations
-  - [Interview questions](/staffing/hiring/interview-questions.md) for screening candidates
-  - [Our onboarding process](/staffing/onboarding)
 -  **[Current Projects](/projects)** including:
   - [How to add a project](/projects/howtoadd.md)
 -  **[Potential Projects](/projects_pending)** including:
   - [How to add a project](/projects_pending/howtoadd.md)
-  - [Our internal process](/how-we-work/process.md) we follow for most of our projects
-  - [What we've learned about working as a remote team](/how-we-work/remote-work.md)
-  - [The tools we use](/how-we-work/tools.md)
-  - [Notes on how we conduct meetings](/how-we-work/meetings.md)
-  - [How we give feedback to other team members](/how-we-work/feedback.md)
-  - [How we use GitHub and Git for version control](/how-we-work/version-control.md)
 - **[Roles](/roles)**
   - Needs work here, there were more roles and positions that were being voted on in the previous meetings 
 - **[PMI Project Charter](/pmi_project_charter)**:

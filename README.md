@@ -4,8 +4,8 @@
 
 **What's in here (so far):**
 
--  **[A manifesto](manifesto.md)** outlining our team's mission and values
--  **[Our Strategy for 2015](/strategy/2015.md)**
+-  **[A manifesto](manifesto.md)** missing/TODO outlining our team's mission and values
+-  **[Our Strategy for 2015](/strategy/2015.md)**  missing/TODO
 -  **[Meeting Minutes](/meetings)** agenda and minutes posted for meetings:
      The format for the meetings will be "meeting_YYYYMMDD_[agenda|minutes|admin].md.
      Additionally we could make subfolders such as ./admin ./general to keep some organization here.

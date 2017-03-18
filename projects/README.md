@@ -1,3 +1,11 @@
+Current Official Projects:
+* None
+
+Current Unofficial Projects:
+* https://github.com/HackMGM/al-farmers-markets
+
+Project Ideas:
+
 * Central Montgomery Optimist Club website
 * Clefworks (executive director seemed interested)
 

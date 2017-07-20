@@ -21,6 +21,7 @@
 **About HackMGM**
 - We are [Code for America Brigade](http://brigade.codeforamerica.org/brigade/) in Montgomery, AL. If you are
   interesed in working with us or have an idea for a project, please join us via our [Meetup/hackMGM](https://meetup.com/hackMGM) group.
+  Please visit our website at https://hackmgm.org/.
 
 **Meetup.com** 
 - [Meetup/hackMGM](https://meetup.com/hackMGM) is our official meetup site. Here you'll find a events and communications.

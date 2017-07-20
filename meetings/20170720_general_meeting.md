@@ -1,7 +1,9 @@
 # hackMGM General Meeting
 
 Date: 2017-07-20, Thursday 6:30pm
+
 Location: [CoWerx46](https://www.meetup.com/CoWerx46/)
+
 [Meeting Minutes Archive](https://github.com/HackMGM/hackmgm-notes/tree/master/meetings)
 
 ## Agenda

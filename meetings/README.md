@@ -22,8 +22,20 @@ the meeting.
 
 ## GitHub Editor
 * https://help.github.com/articles/about-writing-and-formatting-on-github/
+* You can also use any plain text editor that you have installed
 
 ## Free online editor
 * http://dillinger.io/
 * There are probably several that you can use, this one can export to HTML and PDF as well
+* You can also use any plain text editor that you have installed
+
+## Shared document online, multi edit
+* If multiple people are taking notes you can setup the template and then use something like:
+  - https://public.etherpad-mozilla.org/ - no signin required free open source
+  - Google Docs https://blog.spinweb.net/how-to-collaborate-with-google-docs - requires 
+    you to know emails of who will collab, I recommend etherpad
+
+## Interactive Mardown Tutorial Online
+* http://commonmark.org/help/tutorial/
+
 

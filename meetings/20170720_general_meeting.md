@@ -106,7 +106,7 @@ for our area
 - Boyd: This is very necessary, early on the city  
   hired folks to ride the busses and to see if folks used the app, and no one
   used the app.
-  Why are people standing arounding and waiting when they could be using the app?
+  Why are people standing around and waiting when they could be using the app?
   The data that you are trying to corral, its not just if you have access, is it inviting. It's a sophiticated problem.
 - q: How can we use Google Analytics to get more information on the data that is in use?
 #### Conclusion

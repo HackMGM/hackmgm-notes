@@ -2,9 +2,14 @@
 
 Date: 2017-07-20, Thursday 6:30pm
 
-Location: [CoWerx46](https://www.meetup.com/CoWerx46/)
+Location: 
+* [CoWerx46](http://www.cowerx46.com/)
+* [CoWerx46 Meetup](https://www.meetup.com/CoWerx46/)
 
 [Meeting Minutes Archive](https://github.com/HackMGM/hackmgm-notes/tree/master/meetings)
+
+Presentation: 
+* [Slides for July 20 2017](/meetings/presentations/HackMGM_20Jul17-1.pptx)
 
 ## Agenda
 1. Introductions
@@ -101,9 +106,9 @@ for our area
 - Boyd: This is very necessary, early on the city  
   hired folks to ride the busses and to see if folks used the app, and no one
   used the app.
-  Why are people riding arounding and waiting, when they could be using the app?
-  The data that you are trying to corral, it not just if you have access, is is inviting. It's sophiticated problem.
-- q: How can we use google analytics to get more information on the data that is in use?
+  Why are people standing arounding and waiting when they could be using the app?
+  The data that you are trying to corral, its not just if you have access, is it inviting. It's a sophiticated problem.
+- q: How can we use Google Analytics to get more information on the data that is in use?
 #### Conclusion
 * Terry will speak with JD to make suggestions on using GA for assistance for meta data
 #### Action Items
@@ -117,7 +122,7 @@ for our area
 JD Hinshaw
 #### Discussion
 - Very important, should guide us from year to year
-- Talked with core to get some feasible goals
+- Talked with core team to get some feasible goals
 - Current mission statement from JD [available in slides]
 - q: Does the mission statement encompass everything that you think the brigade
 should be shooting for?
@@ -128,7 +133,7 @@ should be shooting for?
 - By the end of the year with the data collected should be able to start doing some good work
 - AFCEA, socials, the more people, collaboration, and networking the easier it will be find out
 needs and solutions
-- action: Send out stretegic document for peer review
+- action: Send out strategic document for peer review
 - Boyd: There will be plans to lobby the county and a need for us to come out in masses, will need help there
   - Data that we could write code against first efforts [dicussions on Boyd's initiative with the MTA efforts]
     - first success story
@@ -139,13 +144,12 @@ needs and solutions
   - The survey stuff is important because just having the data and app doesn't mean people are doing to use it
 - We are not a 501c and currently for the time to takes to become one it's not worth it for us
 - training goals: q: How to recruit and engage people with lesser skills
-- civic minded, send
-- action: send emails to gather new gooal #5
+- action: send emails to gather new goal #5
 - action: CFA get their coding style document and take a look at the recommendation
 - goal #8 is a dup
 
 #### Conclusion
-- Some goals need to be updates see action lines and AIs
+- Some goals need to be updated see action lines and AIs
 #### Action Items
 | AI | POC | Trello | GitHub |
 | ------ | ------ | ------ | ------ |
@@ -171,7 +175,7 @@ needs and solutions
 - Hiring managers
 - Networking and educational, breakout sessions, services from companies, products being sold
 - Also a lot of smaller companies that you don't know about
-- Arade show floor only MACC will cover registration
+- Trade show floor only MACC will cover registration
 - Evening socials 
 - Breakouts and keynotes happening and the floor closes
 - Talking points will be provided to anyone interested so you will not have to
@@ -205,7 +209,6 @@ needs and solutions
 
 ---
 
----
 ### 9. Q&A
 #### Prensenter
 JD Hinshaw

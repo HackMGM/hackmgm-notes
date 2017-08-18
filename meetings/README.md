@@ -35,7 +35,7 @@ the meeting.
   - Google Docs https://blog.spinweb.net/how-to-collaborate-with-google-docs - requires 
     you to know emails of who will collab, I recommend etherpad
 
-## Interactive Mardown Tutorial Online
+## Interactive Markdown Tutorial Online
 * http://commonmark.org/help/tutorial/
 
 

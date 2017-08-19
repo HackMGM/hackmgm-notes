@@ -10,7 +10,7 @@ the meeting.
 
 ## Distrubute minutes
 * All minutes should be stored in the hackmgm-notes/meetings folders.
-* Additionally you can send an emai with minutes via link, in email, or attached; or send notification out via Slack
+* Additionally you can send an email with minutes via link, in email, or attached; or send notification out via Slack
 
 ## Template for Meeting Minutes
   [_minutes_templates.md](/meetings/_minutes_template.md) use this template to start your minutes
